@@ -1,1 +1,1 @@
-# Arquite
+# Arquitectura de Computadores
